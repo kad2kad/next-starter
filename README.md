@@ -1,6 +1,6 @@
 # Next.js Starter
 
-A lightweight Next.js starter project. Nothing built yet — this will serve as the base template before the actual portfolio is developed.
+A lightweight Next.js starter project.
 
 ## Built With
 
